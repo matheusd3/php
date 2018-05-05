@@ -1,5 +1,7 @@
 <?php
 
-echo "<strong> teste git</strong>";
+echo "<strong> novogit</strong>";
+
+echo "<strong> ola novo</strong>";
 
 ?>
