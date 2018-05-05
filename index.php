@@ -1,5 +1,7 @@
 <?php
 
-echo "<strong> teste git</strong>";
+echo "<strong> teste git333</strong>";
+
+echo "erro de conflito"
 
 ?>
